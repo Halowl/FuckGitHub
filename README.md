@@ -1,6 +1,6 @@
 # FuckGitHub
 
-一款软件是github star工具。
+一款软件是github star工具。现阶段只支持macOS
 
 ### 更新日志
 #### 2017年06月19日 v0.1 beta 版本
